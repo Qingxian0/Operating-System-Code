@@ -1,2 +1,2 @@
 # Operating-System-Code
-These are my homework codes (Operating system emulation code)
+These are my homework codes (Operating system algorithms)
