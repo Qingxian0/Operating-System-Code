@@ -1,5 +1,5 @@
 # Operating-System-Code
-These are my homework codes (Operating system algorithms)
+The implementation of os algorithms and some problems of multithread in C and C++.
 
 ## Example Code
 ![Example1](https://github.com/Qingxian0/Operating-System-Code/assets/110659957/18369d13-f19c-4fc9-aca6-861e018084f9)
